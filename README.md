@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+  <a href="https://www.linkedin.com/in/moataz-fadly-932aa41ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
